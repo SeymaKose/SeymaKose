@@ -2,7 +2,7 @@
 <h1 align="center">Hi :wave: Welcome to my github page. I'm Şeyma Köse :wave: </h1>
 <h3 align="center">Computer Engineer</h3>
 <ul>
-<li>:email: How to reach me sseymakkose@gmail.com</li>
+<li>:email: You can reach me via email <strong>sseymakkose@gmail.com</strong></li>
 <li>:pencil2: My writings can be found on https://seymak.medium.com/</li>
 <p
 </p>
