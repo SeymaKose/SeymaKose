@@ -2,6 +2,7 @@
 <h1 align="center">Hi :wave: Welcome to my github page. I'm Şeyma Köse :wave: </h1>
 <h3 align="center">Software Engineer</h3>
 <ul>
+<li>💻 I’m currently working on <strong>JAVA, Spring Boot, Hibernate and SQL</strong></li>
 <li>:email: You can reach me via email <strong>sseymakkose@gmail.com</strong></li>
 <li>:pencil2: My writings can be found on https://seymak.medium.com/</li>
 <p
