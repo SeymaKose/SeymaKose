@@ -11,7 +11,7 @@
 <p
 </p>
 <p align="center">
-<a href="https://www.linkedin.com/in/şeymaköse" rel="nofollow"><img align="center" src="https://img.icons8.com/color/48/linkedin.png" height="48" width="48" style="max-width:100%;"></a>
+<a href="https://www.linkedin.com/in/seymakosee" rel="nofollow"><img align="center" src="https://img.icons8.com/color/48/linkedin.png" height="48" width="48" style="max-width:100%;"></a>
 </p>
 </ul>
 
